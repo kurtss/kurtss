@@ -3,7 +3,7 @@ layout: post
 title: Kansai-ben Dictionary
 ---
 
-An Excel sheet with Kansai-ben and their standard Japanese equivalent words are located [here](https://buffalo.box.com/s/742qstkflqdil7csn3f0dd6mcvk6yyk0).
+An Excel sheet with Kansai-ben and their standard Japanese equivalent words is located [here](https://buffalo.box.com/s/742qstkflqdil7csn3f0dd6mcvk6yyk0).
 
 This has been compiled from the following resources:
 
